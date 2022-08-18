@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Check for log file",
+      "setup": "",
+      "run": "ls",
+      "input": "",
+      "output": "install_check.log",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 50000
+    }
+  ]
+}
