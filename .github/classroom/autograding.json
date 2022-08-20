@@ -9,6 +9,16 @@
       "comparison": "included",
       "timeout": 10,
       "points": 50000
+    },
+    {
+      "name": "Software Version",
+      "setup": "",
+      "run": "printf \"GH Actions runner software versions\\n\\n\"; printf \"SYSTEM:\\t$(uname -a)\\n\"; printf \"SHELL:\\t[${SHELL}]\\n\"; printf \"GIT:\\t[$(which git)] $(git --version)\\n\"; printf \"CURL:\\t[$(which curl)] $(curl --version | head -n 1)\\n\"; printf \"NODE:\\t[$(which node)] node $(node -v)\\n\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
     }
   ]
 }
