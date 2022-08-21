@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin Shawns-MacBook-Pro.local 21.6.0 Darwin Kernel Version 21.6.0: Sat Jun 18 17:07:25 PDT 2022; root:xnu-8020.140.41~1/RELEASE_X86_64 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.32.1 (Apple Git-133)
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Jun 17 2022 21:25:24)
+CURL:	[/usr/bin/curl] curl 7.79.1 (x86_64-apple-darwin21.0) libcurl/7.79.1 (SecureTransport) LibreSSL/3.3.6 zlib/1.2.11 nghttp2/1.45.1
+NODE:	[] 
